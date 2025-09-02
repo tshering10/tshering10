@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey there, I'm Tshering Tamang  
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey, I'm Tshering Tamang  
 
 🚀 Passionate Software Developer | 🎯 Django • REST APIs • System Design  
 
@@ -27,10 +27,4 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tshering.work1@gmail.com)  
 
 ---
-
-### ✨ Extras
-![Visitor Count](https://komarev.com/ghpvc/?username=alexthapa&color=blue)  
-
----
-
 ⭐️ *“Code. Learn. Share. Repeat.”*  
